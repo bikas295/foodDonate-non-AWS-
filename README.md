@@ -74,4 +74,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - Font Awesome for icons
-- Inspired by various food donation platforms 
+- Inspired by various food donation platforms
+
+Live site link: https://bikas295.github.io/foodDonate-non-AWS-/
